@@ -1,0 +1,41 @@
+.left_body {
+  width: 200px;
+  display: inline-block;
+  margin-top: 70px;
+  margin-left: 70px;
+  margin-right: 70px;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+}
+
+.right_body {
+  width: 500px;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 16px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+  margin-top: 70px;
+}
+
+.my_image {
+  width: 200px;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 0px;
+}
+
+.menu {
+  width: 200px;
+}
+
+.name {
+  margin-top: 8px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  font-family: Arial;
+}
+
