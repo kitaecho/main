@@ -10,13 +10,19 @@
 }
 
 .right_body {
+  /* font */
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  
   width: 500px;
   display: inline-block;
   vertical-align: top;
   line-height: 16px;
-  font-size: 15px;
+  
   color: rgb(0, 0, 0);
-  font-family: Arial;
   margin-top: 70px;
 }
 
@@ -36,6 +42,5 @@
   font-size: 30px;
   font-weight: bold;
   color: black;
-  font-family: Arial;
 }
 
