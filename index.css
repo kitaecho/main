@@ -20,7 +20,7 @@
 @media screen and (min-width: 601px) {
   .right_body {
     /* font */
-    font-family: Roboto Mono, Roboto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -57,7 +57,7 @@
 
   .right_body {
     /* font */
-    font-family: Roboto Mono, Roboto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
@@ -67,9 +67,9 @@
     vertical-align: top;
   
     /* structure */
-    width: 300px;
+    width: 330px;
     display: inline-block;
-    margin-top: 70px;
+    margin-top: 30px;
   
   }  
 
@@ -82,7 +82,7 @@
 
 
   .name {
-    margin-top: 8px;
+    margin-top: 2px;
     font-size: 24px;
     font-weight: bold;
     color: black;
